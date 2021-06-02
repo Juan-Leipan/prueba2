@@ -434,3 +434,9 @@ input {
   position: relative;
   z-index: 9999;
 }
+.minis{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_del_Ministerio_de_Educación_%28Chile%29.jpg");
+  padding: 100px 100px;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+}

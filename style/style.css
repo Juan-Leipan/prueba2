@@ -7,7 +7,7 @@ html
 
 body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
-  background: #F0EFE2 url(background.png) repeat;
+  background: #bbbab4 ;
   color: #000;}
 
 p
@@ -61,7 +61,7 @@ a:hover
 blockquote
 { margin: 20px 0; 
   padding: 10px 20px 0 20px;
-  border: 1px solid #E5E5DB;
+  border: 1px solid #b8b8b0;
   background: #FFF;}
 
 ul
